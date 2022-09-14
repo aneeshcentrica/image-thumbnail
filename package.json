@@ -1,0 +1,8 @@
+{
+  "name": "image-thumbnail",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "image-thumbnail": "^1.0.15"
+  }
+}
