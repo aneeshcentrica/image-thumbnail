@@ -17,15 +17,15 @@ Go to the project directory
   cd image-thumbnail
 ```
 
-Install dependencies
+Optional Install dependencies
 
 ```bash
   npm install
 ```
 
-Start the thumbnail generation
+Copy images to images folder and Start the thumbnail generation
 
 ```bash
-  npm run
+  node app.js
 ```
 
